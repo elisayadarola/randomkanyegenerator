@@ -1,6 +1,6 @@
 <template>
   <div>
-    <HelloWorld msg="Random Kanye Quote Mood Generator" />
+    <HelloWorld msg="Kanye Quote Mood Generator" />
   </div>
 </template>
 
